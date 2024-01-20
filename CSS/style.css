@@ -1,0 +1,203 @@
+body{font-family: trebuchet ;
+    margin-bottom: 0;}
+.headimg{ width: 1520px;}
+
+details{text-align: center;
+font-size: 30px;
+text-decoration: none;
+color: #7B586B;
+text-shadow: 9px 10px 8px;
+}
+
+
+summary, a {text-decoration: none;
+color: #7B586B;
+text-shadow: 9px 10px 8px;
+display: block;
+}
+summary::before{content: url(https://i.postimg.cc/C5Dd5LLw/free-icon-font-search-3917132.png);}
+
+
+
+
+.Balli1{box-shadow: 10px 10px 10px black;
+width: 500px;
+height: 300px;
+transform: translate(70px);
+border-radius: 30px;
+}
+
+.Balli2{box-shadow: 10px 10px 10px black;
+    width: 500px;
+    height: 300px;
+    transform: translate(-450px,670px);
+    border-radius: 30px;
+  
+}
+
+.Balli3{box-shadow: 10px 10px 10px black;
+    width: 500px;
+    height: 300px;
+    transform: translateY(30px);
+    border-radius: 30px;
+   }
+
+   
+
+.Balli1:hover{box-shadow: 10px 10px 10px black;
+
+    width: 600px;
+    height: 400px;
+    border-radius: 30px;
+  }
+
+    .Balli2:hover{box-shadow: 10px 10px 10px black;
+        
+        width: 600px;
+        height: 400px;
+        border-radius: 30px;
+        position: relative;
+        z-index: 1;
+      }
+
+
+.Balli3:hover{box-shadow: 10px 10px 10px black;
+
+    width: 600px;
+    height: 400px;
+    position: relative;
+            border-radius: 30px;
+            z-index: 0;
+           }
+
+
+
+
+.bali_text{width: 800px;
+ 
+   margin: 0 auto;
+font-size: 25px;
+padding: 10px;
+transform: translate(320px,-300px);
+font-weight: 900;}
+
+footer{padding: 15px;
+    background-color: #453C41;
+    border-radius: 20px;
+color: wheat;
+font-size: 20px;
+text-shadow: 4px 6px 20px black;
+height: 300px;
+display: flex;
+justify-content: space-evenly;}
+
+.tell::before{content: url(https://i.postimg.cc/QMQJ54GB/free-icon-font-phone-call-5070407.png);}
+
+
+
+
+.Gmail::before{content: url(https://i.postimg.cc/Sx9gf0nd/free-icon-font-envelope-3916611-2.png);}
+.instagram_Text::before{content: url(https://i.postimg.cc/dtCy3Jkq/free-icon-font-instagram-6422200.png);}
+.facebook_Text::before{content: url(https://i.postimg.cc/xT72dbJZ/free-icon-font-facebook-6422199.png);}
+.tiktok_Text::before{content: url(https://i.postimg.cc/vZJXDGvM/free-icon-font-hand-holding-heart-5069104.png);}body{font-family: trebuchet ;
+    margin-bottom: 0;}
+.headimg{ width: 1520px;}
+
+details{text-align: center;
+font-size: 30px;
+text-decoration: none;
+color: #7B586B;
+text-shadow: 9px 10px 8px;
+}
+
+
+summary, a {text-decoration: none;
+color: #7B586B;
+text-shadow: 9px 10px 8px;
+display: block;
+}
+summary::before{content: url(https://i.postimg.cc/C5Dd5LLw/free-icon-font-search-3917132.png);}
+
+
+
+
+.Balli1{box-shadow: 10px 10px 10px black;
+width: 500px;
+height: 300px;
+transform: translate(70px);
+border-radius: 30px;
+}
+
+.Balli2{box-shadow: 10px 10px 10px black;
+    width: 500px;
+    height: 300px;
+    transform: translate(-450px,670px);
+    border-radius: 30px;
+  
+}
+
+.Balli3{box-shadow: 10px 10px 10px black;
+    width: 500px;
+    height: 300px;
+    transform: translateY(30px);
+    border-radius: 30px;
+   }
+
+   
+
+.Balli1:hover{box-shadow: 10px 10px 10px black;
+
+    width: 600px;
+    height: 400px;
+    border-radius: 30px;
+  }
+
+    .Balli2:hover{box-shadow: 10px 10px 10px black;
+        
+        width: 600px;
+        height: 400px;
+        border-radius: 30px;
+        position: relative;
+        z-index: 1;
+      }
+
+
+.Balli3:hover{box-shadow: 10px 10px 10px black;
+
+    width: 600px;
+    height: 400px;
+    position: relative;
+            border-radius: 30px;
+            z-index: 0;
+           }
+
+
+
+
+.bali_text{width: 800px;
+ 
+   margin: 0 auto;
+font-size: 25px;
+padding: 10px;
+transform: translate(320px,-300px);
+font-weight: 900;}
+
+footer{padding: 15px;
+    background-color: #453C41;
+    border-radius: 20px;
+color: wheat;
+font-size: 20px;
+text-shadow: 4px 6px 20px black;
+height: 300px;
+display: flex;
+justify-content: space-evenly;}
+
+.tell::before{content: url(https://i.postimg.cc/QMQJ54GB/free-icon-font-phone-call-5070407.png);}
+
+
+
+
+.Gmail::before{content: url(https://i.postimg.cc/Sx9gf0nd/free-icon-font-envelope-3916611-2.png);}
+.instagram_Text::before{content: url(https://i.postimg.cc/dtCy3Jkq/free-icon-font-instagram-6422200.png);}
+.facebook_Text::before{content: url(https://i.postimg.cc/xT72dbJZ/free-icon-font-facebook-6422199.png);}
+.tiktok_Text::before{content: url(https://i.postimg.cc/vZJXDGvM/free-icon-font-hand-holding-heart-5069104.png);}
